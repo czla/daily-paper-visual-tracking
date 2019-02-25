@@ -1,21 +1,32 @@
-## Visual Trackers
+﻿## Visual Trackers
 -----------------------
 ### Recent
 ###  2019
 * **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks. [[paper](https://arxiv.org/pdf/1902.02804.pdf)] 
-* Dongyan Guo, Jun Wang, Weixuan Zhao, Ying Cui, Zhenhua Wang, Shengyong Chen. End-to-end feature fusion siamese network for adaptive visual tracking. [[paper](https://arxiv.org/pdf/1902.01057.pdf)]  
-* Al-Hussein A. El-Shafie, Mohamed Zaki, Serag El-Din Habib. Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation. [[paper](https://arxiv.org/pdf/1901.02620.pdf)] 
-* Zhipeng Zhang, Houwen Peng, Qiang Wang. Deeper and Wider Siamese Networks for Real-Time Visual Tracking. [[paper](https://arxiv.org/pdf/1901.01660.pdf)] 
+* **FF-Siam:** Dongyan Guo, Jun Wang, Weixuan Zhao, Ying Cui, Zhenhua Wang, Shengyong Chen. End-to-end feature fusion siamese network for adaptive visual tracking. [[paper](https://arxiv.org/pdf/1902.01057.pdf)]  
+* **L-FA:** l-Hussein A. El-Shafie, Mohamed Zaki, Serag El-Din Habib. Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation. [[paper](https://arxiv.org/pdf/1901.02620.pdf)] 
 ### 2018.12
-* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks. [[paper](https://arxiv.org/pdf/1812.11703.pdf)]  
-* Fangwen Tu, Shuzhi Sam Ge, Yazhe Tang, Chang Chieh Hang. Saliency Guided Hierarchical Robust Visual Tracking. [[paper](https://arxiv.org/pdf/1812.08973.pdf)]  
-* Fangwen Tu, Shuzhi Sam Ge, Chang Chieh Hang. Shallow Cue Guided Deep Visual Tracking via Mixed Models. [[paper](https://arxiv.org/pdf/1812.08094.pdf)]  
-* Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]  
-* Heng Fan, Haibin Ling. Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking. [[paper](https://arxiv.org/pdf/1812.06148.pdf)]  
+* **AM-Net:**Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
+
 * Lianghua Huang, Xin Zhao, Kaiqi Huang. **GOT-10k**: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)]  
 ------------------
-### NIPS2018
+### CVPR2019
 
+* **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)]
+
+* **CIR:** Zhipeng Zhang, Houwen Peng. "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1901.01660.pdf)][[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
+
+* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.11703.pdf)][[project](http://bo-li.info/SiamRPN++/)]
+
+* **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
+
+* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). [[paper](https://arxiv.org/pdf/1809.07845.pdf)][[project](https://cis.temple.edu/lasot/)]
+
+### AAAI2019
+
+* **LDES:** Yang Li, Jianke Zhu, Steven C.H. Hoi, Wenjie Song, Zhefeng Wang, Hantang Liu. "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). [[paper](https://arxiv.org/pdf/1712.05231.pdf)][[code](https://github.com/ihpdep/LDES)]  
+
+### NIPS2018  
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang. "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). [[paper](https://arxiv.org/pdf/1810.03851.pdf)][[project](https://ybsong00.github.io/nips18_tracking/index)][[code](https://github.com/shipubupt/NIPS2018)] 
 
 ### ECCV2018
