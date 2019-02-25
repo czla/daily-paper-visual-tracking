@@ -2,8 +2,6 @@
 -----------------------
 ### Recent
 ###  2019
-* Mohammadreza Javanmardi, Amir Hossein Farzaneh, Xiaojun Qi. Robust Structured Group Local Sparse Tracker Using Deep Features.[[paper](https://arxiv.org/pdf/1902.07668.pdf)]  
-* Mohammadreza Javanmardi, Xiaojun Qi. Structured Group Local Sparse Tracker.[[paper](https://arxiv.org/pdf/1902.06182)]  
 * Alessandro Bay, Panagiotis Sidiropoulos, Eduard Vazquez, Michele Sasdelli. Real-time tracker with fast recovery from target loss.[[paper](https://arxiv.org/pdf/1902.04570.pdf)]  
 * **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks. [[paper](https://arxiv.org/pdf/1902.02804.pdf)] 
 * Dongyan Guo, Jun Wang, Weixuan Zhao, Ying Cui, Zhenhua Wang, Shengyong Chen. End-to-end feature fusion siamese network for adaptive visual tracking. [[paper](https://arxiv.org/pdf/1902.01057.pdf)]  
