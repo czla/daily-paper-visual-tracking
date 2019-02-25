@@ -6,10 +6,10 @@
 * **FF-Siam:** Dongyan Guo, Jun Wang, Weixuan Zhao, Ying Cui, Zhenhua Wang, Shengyong Chen. End-to-end feature fusion siamese network for adaptive visual tracking. [[paper](https://arxiv.org/pdf/1902.01057.pdf)]  
 * **L-FA:** l-Hussein A. El-Shafie, Mohamed Zaki, Serag El-Din Habib. Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation. [[paper](https://arxiv.org/pdf/1901.02620.pdf)] 
 ### 2018.12
-* **AM-Net:**Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
+* **AM-Net:** Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
 
 * Lianghua Huang, Xin Zhao, Kaiqi Huang. **GOT-10k**: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)]  
-------------------
+
 ### CVPR2019
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)]
@@ -25,7 +25,7 @@
 ### AAAI2019
 
 * **LDES:** Yang Li, Jianke Zhu, Steven C.H. Hoi, Wenjie Song, Zhefeng Wang, Hantang Liu. "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). [[paper](https://arxiv.org/pdf/1712.05231.pdf)][[code](https://github.com/ihpdep/LDES)]  
-
+------------------
 ### NIPS2018  
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang. "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). [[paper](https://arxiv.org/pdf/1810.03851.pdf)][[project](https://ybsong00.github.io/nips18_tracking/index)][[code](https://github.com/shipubupt/NIPS2018)] 
 
