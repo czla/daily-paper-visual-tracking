@@ -2,6 +2,7 @@
 -----------------------
 ### Recent
 ###  2019
+* **Tracktor:** Philipp Bergmann, Tim Meinhardt, Laura Leal-Taixe. Tracking without bells and whistles[[paper](https://arxiv.org/pdf/1903.05625.pdf)]  
 * **L-SPT:** Pierre-Henri Conze, Florian Tilquin, Mathieu Lamard, Fabrice Heitz, Gwenolé Quellec. Unsupervised learning-based long-term superpixel tracking[[paper](https://arxiv.org/pdf/1902.09596.pdf)]  
 * **TCDCaps:** Ding Ma, Xiangqian Wu. TCDCaps: Visual Tracking via Cascaded Dense Capsules[[paper](https://arxiv.org/pdf/1902.10054.pdf)]  
 * **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks. [[paper](https://arxiv.org/pdf/1902.02804.pdf)][[code](https://github.com/leeyeehoo/SiamVGG)]
