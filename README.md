@@ -1,6 +1,15 @@
-﻿## Visual Trackers
+﻿## Visual Trackers for Single Object
 -----------------------
-### Recent
+### Dataset
+* **GOT-10k:** Lianghua Huang, Xin Zhao, Kaiqi Huang. GOT-10k: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)][[project](http://got-10k.aitestunion.com/)    
+* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). [[paper](https://arxiv.org/pdf/1809.07845.pdf)][[project](https://cis.temple.edu/lasot/)]  
+* **NFS:** H. Kiani Galoogahi, A. Fagg, C. Huang, D. Ramanan, S.Lucey. Need for Speed: A Benchmark for Higher Frame Rate Object Tracking, 2017, arXiv preprint arXiv:1703.05884[[paper](https://arxiv.org/abs/1703.05884.pdf)][[project](http://ci2cv.net/nfs/index.html)]  
+* **UAV123:** A Benchmark and Simulator for UAV Tracking.[[project](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]  
+* **TrackNet:** Chenge Li, Gregory Dobler, Xin Feng, Yao Wang. TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis.[[paper](https://arxiv.org/pdf/1902.01466.pdf)][project](https://tracking-net.org/)]  
+* **VOT2018:** VOT2018 Challenge. [[project](http://www.votchallenge.net/vot2018/dataset.html)]  
+* **OTB2015:** Wu Y, Lim J, Yang M H. Object tracking benchmark[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1834-1848.[[paper](https://www.researchgate.net/profile/Ming-Hsuan_Yang2/publication/273279481_Object_Tracking_Benchmark/links/5556e2d908ae6943a8734e3e/Object-Tracking-Benchmark.pdf)][[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]  
+----------------
+
 ###  2019
 
 * **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)]  
@@ -10,10 +19,9 @@
 * **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks. [[paper](https://arxiv.org/pdf/1902.02804.pdf)][[code](https://github.com/leeyeehoo/SiamVGG)]
 * **FF-Siam:** Dongyan Guo, Jun Wang, Weixuan Zhao, Ying Cui, Zhenhua Wang, Shengyong Chen. End-to-end feature fusion siamese network for adaptive visual tracking. [[paper](https://arxiv.org/pdf/1902.01057.pdf)]  
 * **L-FA:** l-Hussein A. El-Shafie, Mohamed Zaki, Serag El-Din Habib. Fast CNN-Based Object Tracking Using Localization Layers and Deep Features Interpolation. [[paper](https://arxiv.org/pdf/1901.02620.pdf)] 
+
 ### 2018.12
 * **AM-Net:** Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
-
-* Lianghua Huang, Xin Zhao, Kaiqi Huang. **GOT-10k**: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)]  
 
 ### CVPR2019
 
@@ -24,8 +32,6 @@
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.11703.pdf)][[project](http://bo-li.info/SiamRPN++/)]
 
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
-
-* **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). [[paper](https://arxiv.org/pdf/1809.07845.pdf)][[project](https://cis.temple.edu/lasot/)]
 
 ### AAAI2019
 
