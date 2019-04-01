@@ -14,6 +14,7 @@
 
 * **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)]  
 * **TCDCaps:** Ding Ma, Xiangqian Wu. TCDCaps: Visual Tracking via Cascaded Dense Capsules[[paper](https://arxiv.org/pdf/1902.10054.pdf)]  
+* **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks[[paper](https://arxiv.org/pdf/1902.02804.pdf)][[code](https://github.com/leeyeehoo/SiamVGG)]  
 
 ### 2018.12
 * **AM-Net:** Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
