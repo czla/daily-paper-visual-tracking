@@ -1,26 +1,37 @@
 ﻿## Visual Trackers for Single Object
+
 -----------------------
 ### Dataset
-* **GOT-10k:** Lianghua Huang, Xin Zhao, Kaiqi Huang. GOT-10k: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)][[project](http://got-10k.aitestunion.com/)]    
+
+* **GOT-10k:** Lianghua Huang, Xin Zhao, Kaiqi Huang. GOT-10k: A Large High-Diversity Benchmark for Generic Object Tracking in the Wild. [[paper](https://arxiv.org/pdf/1810.11981.pdf)][[github](https://github.com/got-10k/toolkit-matlab)][[project](http://got-10k.aitestunion.com/)]
+
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling. "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). [[paper](https://arxiv.org/pdf/1809.07845.pdf)][[project](https://cis.temple.edu/lasot/)]  
-* **NFS:** H. Kiani Galoogahi, A. Fagg, C. Huang, D. Ramanan, S.Lucey. Need for Speed: A Benchmark for Higher Frame Rate Object Tracking, 2017, arXiv preprint arXiv:1703.05884[[paper](https://arxiv.org/abs/1703.05884.pdf)][[project](http://ci2cv.net/nfs/index.html)]  
-* **UAV123:** A Benchmark and Simulator for UAV Tracking.[[project](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]  
+
+* **NFS:** H. Kiani Galoogahi, A. Fagg, C. Huang, D. Ramanan, S.Lucey. Need for Speed: A Benchmark for Higher Frame Rate Object Tracking, 2017, arXiv preprint arXiv:1703.05884[[paper](https://arxiv.org/abs/1703.05884.pdf)][[project](http://ci2cv.net/nfs/index.html)]
+
+* **UAV123:** A Benchmark and Simulator for UAV Tracking.[[project](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)] 
+
 * **TrackNet:** Chenge Li, Gregory Dobler, Xin Feng, Yao Wang. TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis.[[paper](https://arxiv.org/pdf/1902.01466.pdf)][project](https://tracking-net.org/)]  
+
 * **VOT2018:** VOT2018 Challenge. [[project](http://www.votchallenge.net/vot2018/dataset.html)]  
+
 * **OTB2015:** Wu Y, Lim J, Yang M H. Object tracking benchmark[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1834-1848.[[paper](https://www.researchgate.net/profile/Ming-Hsuan_Yang2/publication/273279481_Object_Tracking_Benchmark/links/5556e2d908ae6943a8734e3e/Object-Tracking-Benchmark.pdf)][[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]  
-----------------
+
+-------------------
 
 ### CVPR2019
+
+* **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)][[code](https://github.com/visionml/pytracking)]
+
 * **TADT:** Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang. "Target-Aware Deep Tracking" CVPR (2019).[[paper](https://arxiv.org/pdf/1904.01772.pdf)][[project](https://xinli-zn.github.io/TADT-project-page/)][[official-code-matlab](https://github.com/XinLi-zn/TADT)]
 
 * **UDT:** Wang, Ning and Song, Yibing and Ma, Chao and Zhou, Wengang and Liu, Wei and Li, Houqiang. "Unsupervised Deep Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1904.01828.pdf)][[official-code-matlab](https://github.com/594422814/UDT)][[official-code-pytorch](https://github.com/594422814/UDT_pytorch)]
 
 * **Tencent:** Visual Tracking via Adaptive Spatially-Regularized Correlation Filters. CVPR (2019)
 ![image](http://5b0988e595225.cdn.sohucs.com/images/20190309/54f42a4cdadf491293784d707b6d847f.jpeg)
-    - 提出自适应空间约束相关滤波算法来同时优化滤波器权重及空间约束矩阵。自适应空间约束机制可以高效地学习得到一个空间权重以适应目标外观变化，因此可以得到更加鲁棒的目标跟踪结果。  
-    - 通过交替迭代算法来高效进行求解，基于此，每个子问题都可以得到闭合的解形式。  
-    - 使用两种相关滤波模型来分别估计目标的位置及尺度，可以在得到较高定位精度的同时有效减少计算量。  
-    - 大量的在综合数据集上的实验结果证明了本文所提出的算法可以与现有的先进算法取得相当的跟踪结果，并且达到了实时的跟踪速度。
+  * 提出自适应空间约束相关滤波算法来同时优化滤波器权重及空间约束矩阵。自适应空间约束机制可以高效地学习得到一个空间权重以适应目标外观变化，因此可以得到更加鲁棒的目标跟踪结果。  
+  * 通过交替迭代算法来高效进行求解，基于此，每个子问题都可以得到闭合的解形式  * 使用两种相关滤波模型来分别估计目标的位置及尺度，可以在得到较高定位精度的同时有效减少计算量
+  * 大量的在综合数据集上的实验结果证明了本文所提出的算法可以与现有的先进算法取得相当的跟踪结果，并且达到了实时的跟踪速度。
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)][[code](https://github.com/foolwood/SiamMask?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)]
 
@@ -30,20 +41,25 @@
 
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
 
-###  2019
+### 2019
 
-* **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)]  
+* **PTS:** Jianren Wang, Yihui He, Xiaobo Wang, Xinjia Yu, Xia Chen. Prediction-Tracking-Segmentation[[paper](https://arxiv.org/pdf/1904.03280.pdf)]
+
 * **TCDCaps:** Ding Ma, Xiangqian Wu. TCDCaps: Visual Tracking via Cascaded Dense Capsules[[paper](https://arxiv.org/pdf/1902.10054.pdf)]  
 * **SiamVGG:** Yuhong Li, Xiaofan Zhang. SiamVGG: Visual Tracking using Deeper Siamese Networks[[paper](https://arxiv.org/pdf/1902.02804.pdf)][[code](https://github.com/leeyeehoo/SiamVGG)]  
 
 ### 2018.12
+
 * **AM-Net:** Xiaolong Jiang, Peizhao Li, Xiantong Zhen, Xianbin Cao. Model-free Tracking with Deep Appearance and Motion Features Integration.(WACV), 2019 [[paper](https://arxiv.org/pdf/1812.06418.pdf)]
 
 ### AAAI2019
 
 * **LDES:** Yang Li, Jianke Zhu, Steven C.H. Hoi, Wenjie Song, Zhefeng Wang, Hantang Liu. "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). [[paper](https://arxiv.org/pdf/1712.05231.pdf)][[code](https://github.com/ihpdep/LDES)]  
-------------------
+
+----------------------------
+
 ### NIPS2018  
+
 * **DAT:** Shi Pu, Yibing Song, Chao Ma, Honggang Zhang, Ming-Hsuan Yang. "Deep Attentive Tracking via Reciprocative Learning." NIPS (2018). [[paper](https://arxiv.org/pdf/1810.03851.pdf)][[project](https://ybsong00.github.io/nips18_tracking/index)][[code](https://github.com/shipubupt/NIPS2018)] 
 
 ### ECCV2018
