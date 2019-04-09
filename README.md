@@ -30,7 +30,8 @@
 * **Tencent:** Visual Tracking via Adaptive Spatially-Regularized Correlation Filters. CVPR (2019)
 ![image](http://5b0988e595225.cdn.sohucs.com/images/20190309/54f42a4cdadf491293784d707b6d847f.jpeg)
   * 提出自适应空间约束相关滤波算法来同时优化滤波器权重及空间约束矩阵。自适应空间约束机制可以高效地学习得到一个空间权重以适应目标外观变化，因此可以得到更加鲁棒的目标跟踪结果。  
-  * 通过交替迭代算法来高效进行求解，基于此，每个子问题都可以得到闭合的解形式  * 使用两种相关滤波模型来分别估计目标的位置及尺度，可以在得到较高定位精度的同时有效减少计算量
+  * 通过交替迭代算法来高效进行求解，基于此，每个子问题都可以得到闭合的解形式  
+  * 使用两种相关滤波模型来分别估计目标的位置及尺度，可以在得到较高定位精度的同时有效减少计算量
   * 大量的在综合数据集上的实验结果证明了本文所提出的算法可以与现有的先进算法取得相当的跟踪结果，并且达到了实时的跟踪速度。
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)][[code](https://github.com/foolwood/SiamMask?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)]
