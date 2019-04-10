@@ -21,6 +21,8 @@
 
 ### CVPR2019
 
+* **SPM-Tracker:** Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng. SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking. [[paper](https://arxiv.org/pdf/1904.04452.pdf)]
+
 * **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)][[code](https://github.com/visionml/pytracking)]
 
 * **TADT:** Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang. "Target-Aware Deep Tracking" CVPR (2019).[[paper](https://arxiv.org/pdf/1904.01772.pdf)][[project](https://xinli-zn.github.io/TADT-project-page/)][[official-code-matlab](https://github.com/XinLi-zn/TADT)]
@@ -43,6 +45,8 @@
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
 
 ### 2019
+
+* **BoLTVOS:** Paul Voigtlaender, Jonathon Luiten, Bastian Leibe. BoLTVOS: Box-Level Tracking for Video Object Segmentation. [[paper](https://arxiv.org/pdf/1904.04552.pdf)]
 
 * **PTS:** Jianren Wang, Yihui He, Xiaobo Wang, Xinjia Yu, Xia Chen. Prediction-Tracking-Segmentation[[paper](https://arxiv.org/pdf/1904.03280.pdf)]
 
