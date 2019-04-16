@@ -46,6 +46,8 @@
 
 ### 2019
 
+* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)][[code](https://github.com/visionml/pytracking)]
+
 * **BoLTVOS:** Paul Voigtlaender, Jonathon Luiten, Bastian Leibe. BoLTVOS: Box-Level Tracking for Video Object Segmentation. [[paper](https://arxiv.org/pdf/1904.04552.pdf)]
 
 * **PTS:** Jianren Wang, Yihui He, Xiaobo Wang, Xinjia Yu, Xia Chen. Prediction-Tracking-Segmentation[[paper](https://arxiv.org/pdf/1904.03280.pdf)]
