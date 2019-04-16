@@ -21,15 +21,21 @@
 
 ### CVPR2019
 
-* **SPM-Tracker:** Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng. SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking. [[paper](https://arxiv.org/pdf/1904.04452.pdf)]
+* **:** Yuxuan Sun, Chong Sun, Dong Wang, Huchuan Lu, You He. "ROI Pooled Correlation Filters for Visual Tracking." CVPR (2019).
 
-* **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization[[paper](https://arxiv.org/pdf/1811.07628.pdf)][[code](https://github.com/visionml/pytracking)]
+* **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). [[paper](https://arxiv.org/pdf/1811.10863.pdf)]
+
+* **:** Junyu Gao, Tianzhu Zhang, Changsheng Xu."Graph Convolutional Tracking." CVPR (2019 **oral**).
+
+* **SPM:** Guangting Wang, Chong Luo, Zhiwei Xiong, Wenjun Zeng. SPM-Tracker: Series-Parallel Matching for Real-Time Visual Object Tracking. [[paper](https://arxiv.org/pdf/1904.04452.pdf)]
+
+* **ATOM:** Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg. ATOM: Accurate Tracking by Overlap Maximization. CVPR (2019 **oral**)[[paper](https://arxiv.org/pdf/1811.07628.pdf)][[code](https://github.com/visionml/pytracking)]
 
 * **TADT:** Xin Li, Chao Ma, Baoyuan Wu, Zhenyu He, Ming-Hsuan Yang. "Target-Aware Deep Tracking" CVPR (2019).[[paper](https://arxiv.org/pdf/1904.01772.pdf)][[project](https://xinli-zn.github.io/TADT-project-page/)][[official-code-matlab](https://github.com/XinLi-zn/TADT)]
 
 * **UDT:** Wang, Ning and Song, Yibing and Ma, Chao and Zhou, Wengang and Liu, Wei and Li, Houqiang. "Unsupervised Deep Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1904.01828.pdf)][[official-code-matlab](https://github.com/594422814/UDT)][[official-code-pytorch](https://github.com/594422814/UDT_pytorch)]
 
-* **Tencent:** Visual Tracking via Adaptive Spatially-Regularized Correlation Filters. CVPR (2019)
+* **Tencent:** Visual Tracking via Adaptive Spatially-Regularized Correlation Filters. CVPR (2019 **oral**)
 ![image](http://5b0988e595225.cdn.sohucs.com/images/20190309/54f42a4cdadf491293784d707b6d847f.jpeg)
   * 提出自适应空间约束相关滤波算法来同时优化滤波器权重及空间约束矩阵。自适应空间约束机制可以高效地学习得到一个空间权重以适应目标外观变化，因此可以得到更加鲁棒的目标跟踪结果。  
   * 通过交替迭代算法来高效进行求解，基于此，每个子问题都可以得到闭合的解形式  
@@ -38,9 +44,9 @@
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)][[code](https://github.com/foolwood/SiamMask?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)]
 
-* **CIR:** Zhipeng Zhang, Houwen Peng. "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1901.01660.pdf)][[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
+* **SiamDW:** Zhipeng Zhang, Houwen Peng. "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019 **oral**).[[paper](https://arxiv.org/pdf/1901.01660.pdf)][[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
 
-* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.11703.pdf)][[project](http://bo-li.info/SiamRPN++/)]
+* **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019 **oral**).[[paper](https://arxiv.org/pdf/1812.11703.pdf)][[project](http://bo-li.info/SiamRPN++/)]
 
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
 
