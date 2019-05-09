@@ -18,6 +18,9 @@
 * **OTB2015:** Wu Y, Lim J, Yang M H. Object tracking benchmark[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1834-1848.[[paper](https://www.researchgate.net/profile/Ming-Hsuan_Yang2/publication/273279481_Object_Tracking_Benchmark/links/5556e2d908ae6943a8734e3e/Object-Tracking-Benchmark.pdf)][[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]  
 
 -------------------
+### ICIP2019
+
+* **Cascaded-Siam:** Peng Gao, Yipeng Ma, Ruyue Yuan, Liyi Xiao, Fei Wang. "Learning Cascaded Siamese Networks for High Performance Visual Tracking." ICIP (2019). [[paper](https://arxiv.org/pdf/1905.02857.pdf)]
 
 ### CVPR2019
 
