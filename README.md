@@ -9,7 +9,7 @@
 
 * **NFS:** H. Kiani Galoogahi, A. Fagg, C. Huang, D. Ramanan, S.Lucey. Need for Speed: A Benchmark for Higher Frame Rate Object Tracking, 2017, arXiv preprint arXiv:1703.05884[[paper](https://arxiv.org/abs/1703.05884.pdf)][[project](http://ci2cv.net/nfs/index.html)]
 
-* **UAV123:** A Benchmark and Simulator for UAV Tracking.[[project](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)] 
+* **UAV123:** A Benchmark and Simulator for UAV Tracking.[[project](https://ivul.kaust.edu.sa/Pages/Dataset-UAV123.aspx)]
 
 * **TrackNet:** Chenge Li, Gregory Dobler, Xin Feng, Yao Wang. TrackNet: Simultaneous Object Detection and Tracking and Its Application in Traffic Video Analysis.[[paper](https://arxiv.org/pdf/1902.01466.pdf)][project](https://tracking-net.org/)]  
 
@@ -47,13 +47,15 @@
 
 * **SiamMask:** Qiang Wang, Li Zhang, Luca Bertinetto, Weiming Hu, Philip H.S. Torr. "Fast Online Object Tracking and Segmentation: A Unifying Approach." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.05050.pdf)][[project](http://www.robots.ox.ac.uk/~qwang/SiamMask/)][[code](https://github.com/foolwood/SiamMask?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily)]
 
-* **SiamDW:** Zhipeng Zhang, Houwen Peng. "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019 **oral**).[[paper](https://arxiv.org/pdf/1901.01660.pdf)][[code](https://gitlab.com/MSRA_NLPR/deeper_wider_siamese_trackers)]
+* **SiamDW:** Zhipeng Zhang, Houwen Peng. "Deeper and Wider Siamese Networks for Real-Time Visual Tracking." CVPR (2019 **oral**).[[paper](https://arxiv.org/pdf/1901.01660.pdf)][[code](https://github.com/researchmm/SiamDW)]
 
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019 **oral**).[[paper](https://arxiv.org/pdf/1812.11703.pdf)][[project](http://bo-li.info/SiamRPN++/)]
 
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019).[[paper](https://arxiv.org/pdf/1812.06148.pdf)]
 
 ### 2019
+
+* **RCG:** Feng Li, Xiaohe Wu, Wangmeng Zuo, David Zhang, Lei Zhang. Remove Cosine Window from Correlation Filter-based Visual Trackers: When and How. [[paper](https://arxiv.org/pdf/1905.06648.pdf)][[code](https://github.com/lifeng9472/Removing_cosine_window_from_CF_trackers)]
 
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)][[code](https://github.com/visionml/pytracking)]
 
