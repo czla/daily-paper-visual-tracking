@@ -52,6 +52,8 @@
 
 ### 2019
 
+* **DCFST:** Linyu Zheng, Ming Tang, JinqiaoWang, Hanqing Lu. Learning Features with Differentiable Closed-Form Solver for Tracking. [[paper](https://arxiv.org/pdf/1906.10414.pdf)]
+
 * **HAT:** Qiangqiang Wu, Zhihui Chen, Lin Cheng, Yan Yan, Bo Li, Hanzi Wang. Hallucinated Adversarial Learning for Robust Visual Tracking. [[paper](https://arxiv.org/pdf/1906.07008.pdf)]
 
 * **RCG:** Feng Li, Xiaohe Wu, Wangmeng Zuo, David Zhang, Lei Zhang. Remove Cosine Window from Correlation Filter-based Visual Trackers: When and How. [[paper](https://arxiv.org/pdf/1905.06648.pdf)][[code](https://github.com/lifeng9472/Removing_cosine_window_from_CF_trackers)]
