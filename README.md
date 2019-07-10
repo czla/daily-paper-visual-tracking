@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **SiamMask_E:** Bao Xin Chen, John K. Tsotsos. Fast Visual Object Tracking with Rotated Bounding Boxes. [[paper](https://arxiv.org/pdf/1907.03892.pdf)]
+
 * **DCFST:** Linyu Zheng, Ming Tang, JinqiaoWang, Hanqing Lu. Learning Features with Differentiable Closed-Form Solver for Tracking. [[paper](https://arxiv.org/pdf/1906.10414.pdf)]
 
 * **HAT:** Qiangqiang Wu, Zhihui Chen, Lin Cheng, Yan Yan, Bo Li, Hanzi Wang. Hallucinated Adversarial Learning for Robust Visual Tracking. [[paper](https://arxiv.org/pdf/1906.07008.pdf)]
