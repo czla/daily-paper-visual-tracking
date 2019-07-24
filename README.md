@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **fECO_fDeepSTRCF:** Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Houqiang Li. Real-Time Correlation Tracking via Joint Model Compression and Transfer. [[paper](https://arxiv.org/pdf/1907.09831.pdf)]
+
 * **SiamMask_E:** Bao Xin Chen, John K. Tsotsos. Fast Visual Object Tracking with Rotated Bounding Boxes. [[paper](https://arxiv.org/pdf/1907.03892.pdf)]
 
 * **DCFST:** Linyu Zheng, Ming Tang, JinqiaoWang, Hanqing Lu. Learning Features with Differentiable Closed-Form Solver for Tracking. [[paper](https://arxiv.org/pdf/1906.10414.pdf)]
