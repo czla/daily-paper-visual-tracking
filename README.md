@@ -54,6 +54,9 @@
 
 ### 2019
 
+* **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan
+. ROAM: Recurrently Optimizing Tracking Model. [[paper](https://arxiv.org/pdf/1907.12006.pdf)]
+
 * **fECO_fDeepSTRCF:** Ning Wang, Wengang Zhou, Yibing Song, Chao Ma, Houqiang Li. Real-Time Correlation Tracking via Joint Model Compression and Transfer. [[paper](https://arxiv.org/pdf/1907.09831.pdf)]
 
 * **SiamMask_E:** Bao Xin Chen, John K. Tsotsos. Fast Visual Object Tracking with Rotated Bounding Boxes. [[paper](https://arxiv.org/pdf/1907.03892.pdf)]
