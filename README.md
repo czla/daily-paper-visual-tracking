@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **THOR:** Axel Sauer, Elie Aljalbout, Sami Haddadin. Tracking Holistic Object Representations. BMVC 2019. [[paper](https://arxiv.org/pdf/1907.12920.pdf)][[code](https://github.com/xl-sr/THOR)]
+
 * **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan
 . ROAM: Recurrently Optimizing Tracking Model. [[paper](https://arxiv.org/pdf/1907.12006.pdf)]
 
