@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[paper](https://arxiv.org/pdf/1907.13242.pdf)]
+
 * **THOR:** Axel Sauer, Elie Aljalbout, Sami Haddadin. Tracking Holistic Object Representations. BMVC 2019. [[paper](https://arxiv.org/pdf/1907.12920.pdf)][[code](https://github.com/xl-sr/THOR)]
 
 * **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan
