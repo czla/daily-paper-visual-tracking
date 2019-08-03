@@ -30,7 +30,7 @@
 
 * **RPCF:** Yuxuan Sun, Chong Sun, Dong Wang, Huchuan Lu, You He. "ROI Pooled Correlation Filters for Visual Tracking." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_ROI_Pooled_Correlation_Filters_for_Visual_Tracking_CVPR_2019_paper.pdf)]
 
-* **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)]
+* **OTR:** Ugur Kart, Alan Lukezic, Matej Kristan, Joni-Kristian Kamarainen, Jiri Matas. "Object Tracking by Reconstruction with View-Specific Discriminative Correlation Filters." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kart_Object_Tracking_by_Reconstruction_With_View-Specific_Discriminative_Correlation_Filters_CVPR_2019_paper.pdf)][[code](https://github.com/ugurkart/OTR)]
 
 * **GCT:** Junyu Gao, Tianzhu Zhang, Changsheng Xu."Graph Convolutional Tracking." CVPR (2019 **oral**). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)]
 
