@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **BVT:** Qing Guo, Wei Feng, Zhihao Chen, Ruijun Gao, Liang Wan, Song Wang. Effects of Blur and Deblurring to Visual Object Tracking. [[paper](https://arxiv.org/pdf/1908.07904.pdf)]
+
 * **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. Learning the Model Update for Siamese Trackers. [[paper](https://arxiv.org/pdf/1908.00855.pdf)][[code](https://github.com/zhanglichao/updatenet)]
 
 * **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[paper](https://arxiv.org/pdf/1907.13242.pdf)]
