@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **RAR:** Peng Gao, Qiquan Zhang, Liyi Xiao, Yan Zhang, Fei Wang. Learning Reinforced Attentional Representation for End-to-End Visual Tracking. [[paper](https://arxiv.org/pdf/1908.10009.pdf)]
+
 * **BVT:** Qing Guo, Wei Feng, Zhihao Chen, Ruijun Gao, Liang Wan, Song Wang. Effects of Blur and Deblurring to Visual Object Tracking. [[paper](https://arxiv.org/pdf/1908.07904.pdf)]
 
 * **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. Learning the Model Update for Siamese Trackers. [[paper](https://arxiv.org/pdf/1908.00855.pdf)][[code](https://github.com/zhanglichao/updatenet)]
