@@ -54,6 +54,8 @@
 
 ### 2019
 
+* **DROL:** Jinghao Zhou, Peng Wang, Haoyang Sun. Discriminative and Robust Online Learning for Siamese Visual Tracking. [[paper](https://arxiv.org/pdf/1909.02959.pdf)]
+
 * **RAR:** Peng Gao, Qiquan Zhang, Liyi Xiao, Yan Zhang, Fei Wang. Learning Reinforced Attentional Representation for End-to-End Visual Tracking. [[paper](https://arxiv.org/pdf/1908.10009.pdf)]
 
 * **BVT:** Qing Guo, Wei Feng, Zhihao Chen, Ruijun Gao, Liang Wan, Song Wang. Effects of Blur and Deblurring to Visual Object Tracking. [[paper](https://arxiv.org/pdf/1908.07904.pdf)]
