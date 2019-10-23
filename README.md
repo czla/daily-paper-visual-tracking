@@ -199,3 +199,8 @@
 * **HP:** Xingping Dong, Jianbing Shen, Wenguan Wang, Yu, Liu, Ling Shao, and Fatih Porikli.
   "Hyperparameter Optimization for Tracking with Continuous Deep Q-Learning." CVPR (2018).
   [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Hyperparameter_Optimization_for_CVPR_2018_paper.pdf)]
+
+-----------------------
+### Review
+
+* Shaoze You, Hua Zhu, Menggang Li, Yutan Li. A Review of Visual Trackers and Analysis of its Application to Mobile Robot. [[paper](https://arxiv.org/ftp/arxiv/papers/1910/1910.09761.pdf)]
