@@ -24,6 +24,8 @@
 -------------------
 ### ICCV2019
 
+* Achal Dave, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan. "Learning to Track Any Object." ICCV (2019). [[paper](https://arxiv.org/pdf/1910.11844.pdf)]
+
 * **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**). [[paper](https://arxiv.org/pdf/1909.06800.pdf)][[code](https://github.com/LPXTT/GradNet-Tensorflow)]
 
 -------------------
