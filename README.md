@@ -24,9 +24,15 @@
 -------------------
 ### ICCV2019
 
+* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. "Learning Discriminative Model Prediction for Tracking." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)][[code](https://github.com/visionml/pytracking)][[supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Bhat_Learning_Discriminative_Model_ICCV_2019_supplemental.pdf)]
+
+* **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. "Learning the Model Update for Siamese Trackers." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf)][[code](https://github.com/zhanglichao/updatenet)][[supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_Learning_the_Model_ICCV_2019_supplemental.pdf)]
+
 * Achal Dave, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan. "Learning to Track Any Object." ICCV (2019). [[paper](https://arxiv.org/pdf/1910.11844.pdf)]
 
-* **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**). [[paper](https://arxiv.org/pdf/1909.06800.pdf)][[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+* **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)][[code](https://github.com/LPXTT/GradNet-Tensorflow)]
+
+* **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. "Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Joint_Group_Feature_Selection_and_Discriminative_Filter_Learning_for_Robust_ICCV_2019_paper.pdf)][[code](https://github.com/XU-TIANYANG/GFS-DCF)]
 
 -------------------
 ### ICIP2019
@@ -67,8 +73,6 @@
 
 * **BVT:** Qing Guo, Wei Feng, Zhihao Chen, Ruijun Gao, Liang Wan, Song Wang. Effects of Blur and Deblurring to Visual Object Tracking. [[paper](https://arxiv.org/pdf/1908.07904.pdf)]
 
-* **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. Learning the Model Update for Siamese Trackers. [[paper](https://arxiv.org/pdf/1908.00855.pdf)][[code](https://github.com/zhanglichao/updatenet)]
-
 * **GFS-DCF:** Tianyang Xu, Zhen-Hua Feng, Xiao-Jun Wu, Josef Kittler. Joint Group Feature Selection and Discriminative Filter Learning for Robust Visual Object Tracking. [[paper](https://arxiv.org/pdf/1907.13242.pdf)]
 
 * **THOR:** Axel Sauer, Elie Aljalbout, Sami Haddadin. Tracking Holistic Object Representations. BMVC 2019. [[paper](https://arxiv.org/pdf/1907.12920.pdf)][[code](https://github.com/xl-sr/THOR)]
@@ -85,8 +89,6 @@
 * **HAT:** Qiangqiang Wu, Zhihui Chen, Lin Cheng, Yan Yan, Bo Li, Hanzi Wang. Hallucinated Adversarial Learning for Robust Visual Tracking. [[paper](https://arxiv.org/pdf/1906.07008.pdf)]
 
 * **RCG:** Feng Li, Xiaohe Wu, Wangmeng Zuo, David Zhang, Lei Zhang. Remove Cosine Window from Correlation Filter-based Visual Trackers: When and How. [[paper](https://arxiv.org/pdf/1905.06648.pdf)][[code](https://github.com/lifeng9472/Removing_cosine_window_from_CF_trackers)]
-
-* **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Learning Discriminative Model Prediction for Tracking. [[paper](https://arxiv.org/pdf/1904.07220.pdf)][[code](https://github.com/visionml/pytracking)]
 
 * **BoLTVOS:** Paul Voigtlaender, Jonathon Luiten, Bastian Leibe. BoLTVOS: Box-Level Tracking for Video Object Segmentation. [[paper](https://arxiv.org/pdf/1904.04552.pdf)]
 
