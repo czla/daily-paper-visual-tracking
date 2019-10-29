@@ -24,11 +24,13 @@
 -------------------
 ### ICCV2019
 
+* **VOT2019:** Kristan, Matej, et al. "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops   (2019). [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VOT/Kristan_The_Seventh_Visual_Object_Tracking_VOT2019_Challenge_Results_ICCVW_2019_paper.pdf)]
+
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. "Learning Discriminative Model Prediction for Tracking." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)][[code](https://github.com/visionml/pytracking)][[supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Bhat_Learning_Discriminative_Model_ICCV_2019_supplemental.pdf)]
 
 * **UpdateNet:** Lichao Zhang, Abel Gonzalez-Garcia, Joost van de Weijer, Martin Danelljan, Fahad Shahbaz Khan. "Learning the Model Update for Siamese Trackers." ICCV (2019). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Learning_the_Model_Update_for_Siamese_Trackers_ICCV_2019_paper.pdf)][[code](https://github.com/zhanglichao/updatenet)][[supp](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_Learning_the_Model_ICCV_2019_supplemental.pdf)]
 
-* Achal Dave, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan. "Learning to Track Any Object." ICCV (2019). [[paper](https://arxiv.org/pdf/1910.11844.pdf)]
+* Achal Dave, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan. "Learning to Track Any Object." ICCV workshop (2019). [[paper](https://arxiv.org/pdf/1910.11844.pdf)]
 
 * **GradNet:** Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. "GradNet: Gradient-Guided Network for Visual Object Tracking." ICCV (2019 **oral**). [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_GradNet_Gradient-Guided_Network_for_Visual_Object_Tracking_ICCV_2019_paper.pdf)][[code](https://github.com/LPXTT/GradNet-Tensorflow)]
 
