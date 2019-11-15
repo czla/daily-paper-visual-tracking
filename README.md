@@ -21,6 +21,11 @@
 
 * **OTB2015:** Wu Y, Lim J, Yang M H. Object tracking benchmark[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015, 37(9): 1834-1848.[[paper](https://www.researchgate.net/profile/Ming-Hsuan_Yang2/publication/273279481_Object_Tracking_Benchmark/links/5556e2d908ae6943a8734e3e/Object-Tracking-Benchmark.pdf)][[project](http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html)]  
 
+----------------------------
+### AAAI2020
+
+* **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Yuan Ye, Gang Yu. "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.06188.pdf)]
+
 -------------------
 ### ICCV2019
 
