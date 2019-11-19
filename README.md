@@ -74,6 +74,8 @@
 
 ### 2019
 
+* **SiamCAR:** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen. SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking. [[paper](https://arxiv.org/pdf/1911.07241.pdf)]
+
 * **DROL:** Jinghao Zhou, Peng Wang, Haoyang Sun. Discriminative and Robust Online Learning for Siamese Visual Tracking. [[paper](https://arxiv.org/pdf/1909.02959.pdf)][[code](https://github.com/shallowtoil/DROL)]
 
 * **RAR:** Peng Gao, Qiquan Zhang, Liyi Xiao, Yan Zhang, Fei Wang. Learning Reinforced Attentional Representation for End-to-End Visual Tracking. [[paper](https://arxiv.org/pdf/1908.10009.pdf)]
