@@ -74,6 +74,8 @@
 
 ### 2019
 
+* **TracKlinic:** Heng Fan, Fan Yang, Peng Chu, Lin Yuan, Haibin Ling. TracKlinic: Diagnosis of Challenge Factors in Visual Tracking. [[paper](https://arxiv.org/pdf/1911.07959.pdf)]
+
 * **SiamCAR:** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen. SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking. [[paper](https://arxiv.org/pdf/1911.07241.pdf)]
 
 * **DROL:** Jinghao Zhou, Peng Wang, Haoyang Sun. Discriminative and Robust Online Learning for Siamese Visual Tracking. [[paper](https://arxiv.org/pdf/1909.02959.pdf)][[code](https://github.com/shallowtoil/DROL)]
