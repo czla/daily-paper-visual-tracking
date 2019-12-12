@@ -83,6 +83,8 @@
 
 ### 2019
 
+* **SiamMan:** Wenzhang Zhou, Longyin Wen, Libo Zhang, Dawei Du, Tiejian Luo, Yanjun Wu. SiamMan: Siamese Motion-aware Network for Visual Tracking. [[paper](https://arxiv.org/pdf/1912.05515.pdf)]
+
 * **D3S:** Alan Lukežič, Jiří Matas, Matej Kristan. D3S -- A Discriminative Single Shot Segmentation Tracker. [[paper](https://arxiv.org/pdf/1911.08862.pdf)]
 
 * **TracKlinic:** Heng Fan, Fan Yang, Peng Chu, Lin Yuan, Haibin Ling. TracKlinic: Diagnosis of Challenge Factors in Visual Tracking. [[paper](https://arxiv.org/pdf/1911.07959.pdf)]
