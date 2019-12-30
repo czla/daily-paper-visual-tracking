@@ -84,6 +84,7 @@
 * **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)][[supp](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Fan_Siamese_Cascaded_Region_CVPR_2019_supplemental.pdf)]
 
 ### 2019
+* **Siam-GAN:** Zhaofu Diao, Ying Wei, Yujiang Fu, Shuo Feng. A single target tracking algorithm based on Generative Adversarial Networks. [[paper](https://arxiv.org/pdf/1912.11967.pdf)]
 
 * **SiamMan:** Wenzhang Zhou, Longyin Wen, Libo Zhang, Dawei Du, Tiejian Luo, Yanjun Wu. SiamMan: Siamese Motion-aware Network for Visual Tracking. [[paper](https://arxiv.org/pdf/1912.05515.pdf)]
 
