@@ -24,6 +24,8 @@
 -----------------------
 ### Survey
 
+* Ross Goroshin, Jonathan Tompson, Debidatta Dwibedi. An Analysis of Object Representations in Deep Visual Trackers. [[paper](https://arxiv.org/pdf/2001.02593.pdf)]
+
 * Shaoze You, Hua Zhu, Menggang Li, Yutan Li. A Review of Visual Trackers and Analysis of its Application to Mobile Robot. [[paper](https://arxiv.org/ftp/arxiv/papers/1910/1910.09761.pdf)]
 
 * Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. Deep Learning for Visual Tracking: A Comprehensive Survey. [[paper](https://arxiv.org/pdf/1912.00535.pdf)]
