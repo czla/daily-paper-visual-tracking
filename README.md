@@ -31,6 +31,12 @@
 * Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. Deep Learning for Visual Tracking: A Comprehensive Survey. [[paper](https://arxiv.org/pdf/1912.00535.pdf)]
 
 ----------------------------
+### CVPR2020
+
+* **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji. Siamese Box Adaptive Network for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.06761.pdf)][[code](https://github.com/hqucv/siamban)]
+
+
+----------------------------
 ### AAAI2020
 
 * **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. GlobalTrack: A Simple and Strong Baseline for Long-term Tracking. [[paper](https://arxiv.org/pdf/1912.08531.pdf)][[code](https://github.com/huanglianghua/GlobalTrack)]
