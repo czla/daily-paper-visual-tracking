@@ -45,6 +45,11 @@
 
 * **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Yuan Ye, Gang Yu. "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.06188.pdf)][[code](https://github.com/MegviiDetection/video_analyst)]
 
+----------------------------
+### 2020
+
+* **DMV:** Gunhee Nam, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim. DMV: Visual Object Tracking via Part-level Dense Memory and Voting-based Retrieval. [[paper](https://arxiv.org/pdf/2003.09171.pdf)]
+
 -------------------
 ### ICCV2019
 
