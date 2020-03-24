@@ -33,6 +33,8 @@
 ----------------------------
 ### CVPR2020
 
+* **CSA:** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. [[paper](https://arxiv.org/pdf/2003.09595.pdf)][[code](https://github.com/MasterBin-IIAU/CSA)]
+
 * **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji. Siamese Box Adaptive Network for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.06761.pdf)][[code](https://github.com/hqucv/siamban)]
 
 
