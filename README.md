@@ -50,6 +50,8 @@
 ----------------------------
 ### 2020
 
+* **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
+
 * **DMV:** Gunhee Nam, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim. DMV: Visual Object Tracking via Part-level Dense Memory and Voting-based Retrieval. [[paper](https://arxiv.org/pdf/2003.09171.pdf)]
 
 -------------------
