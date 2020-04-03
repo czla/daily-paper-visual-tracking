@@ -33,6 +33,8 @@
 ----------------------------
 ### CVPR2020
 
+* **Retina-MAML:** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng. Tracking by Instance Detection: A Meta-Learning Approach. (**oral**) [[paper](https://arxiv.org/pdf/2004.00830.pdf)]
+
 * **PrDiMP:** Martin Danelljan, Luc Van Gool, Radu Timofte. Probabilistic Regression for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.12565.pdf)][[code](https://github.com/visionml/pytracking)]
 
 * **CSA:** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. [[paper](https://arxiv.org/pdf/2003.09595.pdf)][[code](https://github.com/MasterBin-IIAU/CSA)]
