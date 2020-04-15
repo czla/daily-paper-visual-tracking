@@ -33,6 +33,8 @@
 ----------------------------
 ### CVPR2020
 
+* **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. Deformable Siamese Attention Networks for Visual Object Tracking. [[paper](https://arxiv.org/pdf/2004.06711.pdf)]
+
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. Siam R-CNN: Visual Tracking by Re-Detection. [[paper](https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf)][[code](https://github.com/VisualComputingInstitute/SiamR-CNN)][[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
 
 * **Retina-MAML:** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng. Tracking by Instance Detection: A Meta-Learning Approach. (**oral**) [[paper](https://arxiv.org/pdf/2004.00830.pdf)]
